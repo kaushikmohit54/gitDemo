@@ -39,6 +39,9 @@ public class LoginPage {
 	public void setPassword(String pwd) {
 		txtPassword.clear();
 		txtPassword.sendKeys(pwd);
+		System.out.println("hello");
+		System.out.println("git merge");
+		System.out.println("git merge3");
 	}
 
 	public void clickLogin() {
