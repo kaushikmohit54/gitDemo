@@ -57,6 +57,7 @@ public class SearchCustomerPage {
 		waithelper.WaitForElement(txtEmail, 30);
 		txtEmail.clear();
 		txtEmail.sendKeys(email);
+		System.out.println("git merge automation");
 	}
 	
 	public void setFirstName(String fname) {
