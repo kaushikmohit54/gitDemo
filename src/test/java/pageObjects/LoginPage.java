@@ -52,9 +52,7 @@ public class LoginPage {
 		System.out.println("git merge9");
 		System.out.println("git merge10");
 		System.out.println("git merge11");
-		System.out.println("git merge12");
-		
-		
+		System.out.println("git merge12");	
 	}
 
 	public void clickLogin() {
@@ -63,5 +61,9 @@ public class LoginPage {
 
 	public void clickLogout() {
 		lnkLogout.click();
+	}
+	
+	public void gitconcept() {
+		System.out.println("tesging is continued");
 	}
 }
