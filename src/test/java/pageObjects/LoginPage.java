@@ -48,7 +48,11 @@ public class LoginPage {
 		System.out.println("git merge4");
 		System.out.println("git merge5");
 		System.out.println("git merge6");
-		System.out.println("git merge7");
+		System.out.println("git merge8");
+		System.out.println("git merge9");
+		System.out.println("git merge10");
+		System.out.println("git merge11");
+		System.out.println("git merge12");
 		
 		
 	}
